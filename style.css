@@ -1,0 +1,63 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+    background-color: lightpink;
+}
+
+.header_div{
+background-color: white;
+color: violet;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background-color: powderblue;
+    padding: 10px;
+    border: 3px solid white;
+}
+
+.main_div label{
+background-color: white;
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px white;
+}
+
+#camera,#result{
+    border: 2px solid white;
+    width: 310px;
+    height: 310px;
+    box-shadow:5px 5px 18px white;
+}
+
+.footer_div
+{
+    margin-bottom: 70px;
+}
+
+.footer_div h4
+{
+    background: white;
+    border-radius: 10px;
+    padding: 2px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img
+{
+    width: 70px;
+}
+
+.copy_right_footer
+{
+position: fixed;
+color: hotpink;
+bottom: 0;
+width: 100%;
+background-color: turquoise;
+line-height: 3;
+text-align: center;
+}
